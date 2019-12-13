@@ -1,0 +1,4 @@
+[wrap-git]
+directory = gcs-cpp
+url = https://github.com/googleapis/google-cloud-cpp
+revision = v0.11.0

@@ -1,0 +1,5 @@
+[wrap-git]
+directory = osxfuse
+url = https://github.com/sushshring/osxfuse.git
+revision =  master
+clone-recursive = true

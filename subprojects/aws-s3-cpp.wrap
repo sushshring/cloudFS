@@ -1,0 +1,4 @@
+[wrap-git]
+directory = aws-s3-cpp
+url = https://github.com/aws/aws-sdk-cpp
+revision = 1.7.232

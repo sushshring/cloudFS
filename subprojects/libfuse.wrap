@@ -1,0 +1,4 @@
+[wrap-git]
+directory = libfuse
+url = https://github.com/libfuse/libfuse.git
+revision = fuse-3.6.2

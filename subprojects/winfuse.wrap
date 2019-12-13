@@ -1,0 +1,4 @@
+[wrap-git]
+directory = winfuse
+url = https://github.com/billziss-gh/winfsp.git
+revision = v1.5B2
